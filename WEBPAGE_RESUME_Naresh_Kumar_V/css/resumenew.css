@@ -1,0 +1,23 @@
+.td1 {
+  /* border: 2px solid black; */
+  float: left;
+  padding-right: 30px;
+  background-color: #2e75b6;
+  color: white;
+  height: 2300px;
+}
+.td2 {
+  /* border: 2px solid black; */
+  color: #2e75b6;
+}
+p {
+  padding-left: 30px;
+}
+h3 {
+  padding-left: 5px;
+}
+
+body{
+    background-image: url(../Images/white-triangle-pattern-seamless-background-3-cover.jpg);
+
+}
